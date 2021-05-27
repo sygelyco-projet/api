@@ -1,0 +1,3 @@
+function exchangeCurrency( element) {
+	
+}
