@@ -123,7 +123,7 @@
 	
       <div class="panel panel-primary text-center">
         <div class="panel-heading">
-          <h4 class="panel-title">Currency Converter</h4>
+          <h4 class="panel-title">Currency Converter history</h4>
         </div>
         <div >
          history of convertion
